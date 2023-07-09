@@ -1,0 +1,9 @@
+C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/BattleCity-Tanks1990-APfinal.dir
+C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/BattleCity-Tanks1990-APfinal_autogen_timestamp_deps.dir
+C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/BattleCity-Tanks1990-APfinal_autogen.dir

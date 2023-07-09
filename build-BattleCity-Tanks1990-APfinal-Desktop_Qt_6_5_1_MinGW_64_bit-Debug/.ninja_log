@@ -1,0 +1,21 @@
+# ninja log v5
+1	1423	7106422732572962	BattleCity-Tanks1990-APfinal_autogen/timestamp	8b8e29bbe92b8904
+1	1423	7106422732572962	BattleCity-Tanks1990-APfinal_autogen/mocs_compilation.cpp	8b8e29bbe92b8904
+1	1423	7106422732572962	C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/BattleCity-Tanks1990-APfinal_autogen/timestamp	8b8e29bbe92b8904
+1	1423	7106422732572962	C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/BattleCity-Tanks1990-APfinal_autogen/mocs_compilation.cpp	8b8e29bbe92b8904
+1424	3957	7106422759465710	CMakeFiles/BattleCity-Tanks1990-APfinal.dir/BattleCity-Tanks1990-APfinal_autogen/mocs_compilation.cpp.obj	b48dd5cfb14d29e7
+1428	4027	7106422760164250	CMakeFiles/BattleCity-Tanks1990-APfinal.dir/mainwindow.cpp.obj	be72fe8c66f0840
+15	241	7106422918068486	BattleCity-Tanks1990-APfinal_autogen/timestamp	8b8e29bbe92b8904
+15	241	7106422918068486	BattleCity-Tanks1990-APfinal_autogen/mocs_compilation.cpp	8b8e29bbe92b8904
+15	241	7106422918068486	C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/BattleCity-Tanks1990-APfinal_autogen/timestamp	8b8e29bbe92b8904
+15	241	7106422918068486	C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/BattleCity-Tanks1990-APfinal_autogen/mocs_compilation.cpp	8b8e29bbe92b8904
+245	2260	7106422938279106	CMakeFiles/BattleCity-Tanks1990-APfinal.dir/main.cpp.obj	34a2f13a9c6fdc73
+248	2341	7106422939076977	CMakeFiles/BattleCity-Tanks1990-APfinal.dir/mainwindow.cpp.obj	be72fe8c66f0840
+2341	3085	7106422946491971	BattleCity-Tanks1990-APfinal.exe	b2337677803f684f
+11	192	7106424133898218	BattleCity-Tanks1990-APfinal_autogen/timestamp	8b8e29bbe92b8904
+11	192	7106424133898218	BattleCity-Tanks1990-APfinal_autogen/mocs_compilation.cpp	8b8e29bbe92b8904
+11	192	7106424133898218	C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/BattleCity-Tanks1990-APfinal_autogen/timestamp	8b8e29bbe92b8904
+11	192	7106424133898218	C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/BattleCity-Tanks1990-APfinal_autogen/mocs_compilation.cpp	8b8e29bbe92b8904
+195	1879	7106424150787224	CMakeFiles/BattleCity-Tanks1990-APfinal.dir/main.cpp.obj	34a2f13a9c6fdc73
+199	2091	7106424152901745	CMakeFiles/BattleCity-Tanks1990-APfinal.dir/mainwindow.cpp.obj	be72fe8c66f0840
+2092	2247	7106424154426461	BattleCity-Tanks1990-APfinal.exe	b2337677803f684f
