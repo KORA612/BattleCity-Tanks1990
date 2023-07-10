@@ -1,26 +1,39 @@
 #include "MyRect.h"
+#include <QGraphicsScene>
 #include <QKeyEvent>
-#include <Qdebug>
+#include <QDebug>
+#include "Bullet.h"
+
+
 
 void MyRect::keyPressEvent(QKeyEvent *event)
 {
+    int pixelMovement = 10;
     qDebug() << "Key!" ;
 
     switch(event->key())
     {
     case Qt::Key_Up:
-        setPos(x(),y()-10);
+        if(pos().y() > 0)
+        setPos(x(),y()-pixelMovement);
         break;
     case Qt::Key_Down:
-        setPos(x(),y()+10);
+        if(pos().y() + rect().height() < 600)
+        setPos(x(),y()+pixelMovement);
         break;
     case Qt::Key_Left:
-        setPos(x()-10,y());
+        if(pos().x() > 0)
+        setPos(x()-pixelMovement,y());
         break;
     case Qt::Key_Right:
-        setPos(x()+10,y());
+        if(pos().x() + rect().width() < 800)
+        setPos(x()+pixelMovement,y());
         break;
-    default:
+    case Qt::Key_K:
+        qDebug() << "Bullet!" ;
+        Bullet * bullet = new Bullet();
+        bullet->setPos(x()+rect().width()/2-bullet->rect().width()/2,y());
+        scene()->addItem(bullet);
         break;
     }
 

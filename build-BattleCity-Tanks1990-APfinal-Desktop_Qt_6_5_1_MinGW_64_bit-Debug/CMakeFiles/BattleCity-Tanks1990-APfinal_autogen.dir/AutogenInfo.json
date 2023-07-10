@@ -255,6 +255,12 @@
 	"HEADERS" : 
 	[
 		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Bullet.h",
+			"MU",
+			"EWIEGA46WW/moc_Bullet.cpp",
+			null
+		],
+		[
 			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/MyRect.h",
 			"MU",
 			"EWIEGA46WW/moc_MyRect.cpp",
@@ -336,6 +342,11 @@
 	"SETTINGS_FILE" : "C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/BattleCity-Tanks1990-APfinal_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Bullet.cpp",
+			"MU",
+			null
+		],
 		[
 			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/MyRect.cpp",
 			"MU",

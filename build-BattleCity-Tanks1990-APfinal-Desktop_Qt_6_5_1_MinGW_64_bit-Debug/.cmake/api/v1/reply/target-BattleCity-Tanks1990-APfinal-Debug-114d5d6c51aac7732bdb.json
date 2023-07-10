@@ -51,7 +51,7 @@
 			{
 				"command" : 3,
 				"file" : 1,
-				"line" : 25,
+				"line" : 27,
 				"parent" : 0
 			},
 			{
@@ -75,13 +75,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 57,
+				"line" : 59,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 47,
+				"line" : 49,
 				"parent" : 0
 			},
 			{
@@ -368,18 +368,19 @@
 				0,
 				1,
 				2,
-				5
+				5,
+				8
 			]
 		}
 	],
 	"dependencies" : 
 	[
 		{
-			"id" : "BattleCity-Tanks1990-APfinal_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
-		},
-		{
 			"backtrace" : 0,
 			"id" : "BattleCity-Tanks1990-APfinal_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "BattleCity-Tanks1990-APfinal_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "BattleCity-Tanks1990-APfinal::@6890427a1f51a3e7e1df",
@@ -492,7 +493,8 @@
 				0,
 				1,
 				2,
-				5
+				5,
+				8
 			]
 		},
 		{
@@ -501,7 +503,8 @@
 			[
 				3,
 				6,
-				7
+				7,
+				9
 			]
 		},
 		{
@@ -509,14 +512,14 @@
 			"sourceIndexes" : 
 			[
 				4,
-				8
+				10
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				9
+				11
 			]
 		}
 	],
@@ -561,6 +564,17 @@
 			"backtrace" : 4,
 			"path" : "MyRect.h",
 			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "Bullet.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "Bullet.cpp",
+			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 0,

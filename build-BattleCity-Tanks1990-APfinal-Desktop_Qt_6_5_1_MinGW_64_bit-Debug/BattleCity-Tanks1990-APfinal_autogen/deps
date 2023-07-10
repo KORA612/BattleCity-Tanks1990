@@ -1,4 +1,6 @@
 BattleCity-Tanks1990-APfinal_autogen/timestamp: \
+	C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Bullet.cpp \
+	C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Bullet.h \
 	C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/CMakeLists.txt \
 	C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/MyRect.cpp \
 	C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/MyRect.h \
@@ -10,6 +12,7 @@ BattleCity-Tanks1990-APfinal_autogen/timestamp: \
 	C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/3.24.2/CMakeCXXCompiler.cmake \
 	C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/3.24.2/CMakeRCCompiler.cmake \
 	C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/CMakeFiles/3.24.2/CMakeSystem.cmake \
+	D:/_Applications/Qt/6.5.1/mingw_64/include/QtCore/QObject \
 	D:/_Applications/Qt/6.5.1/mingw_64/include/QtCore/q20memory.h \
 	D:/_Applications/Qt/6.5.1/mingw_64/include/QtCore/q20type_traits.h \
 	D:/_Applications/Qt/6.5.1/mingw_64/include/QtCore/qalgorithms.h \
@@ -129,6 +132,7 @@ BattleCity-Tanks1990-APfinal_autogen/timestamp: \
 	D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qimage.h \
 	D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qkeysequence.h \
 	D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qpaintdevice.h \
+	D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qpainterpath.h \
 	D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qpalette.h \
 	D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qpixelformat.h \
 	D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qpixmap.h \
@@ -142,7 +146,9 @@ BattleCity-Tanks1990-APfinal_autogen/timestamp: \
 	D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qtransform.h \
 	D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qwindowdefs.h \
 	D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qwindowdefs_win.h \
+	D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/QGraphicsRectItem \
 	D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/QMainWindow \
+	D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/qgraphicsitem.h \
 	D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/qmainwindow.h \
 	D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/qsizepolicy.h \
 	D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/qtabwidget.h \

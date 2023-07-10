@@ -5,7 +5,7 @@
 
 class MyRect : public QGraphicsRectItem
 {
-protected:
+public:
     void keyPressEvent (QKeyEvent * event);
 };
 
