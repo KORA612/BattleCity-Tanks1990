@@ -4,8 +4,6 @@
 #include <QDebug>
 #include "Bullet.h"
 
-
-
 void MyRect::keyPressEvent(QKeyEvent *event)
 {
     int pixelMovement = 10;

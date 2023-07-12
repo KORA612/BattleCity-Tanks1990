@@ -124,7 +124,8 @@ C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfi
   D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qtransform.h \
   D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qwindowdefs.h \
   D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qwindowdefs_win.h \
-  D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/QGraphicsRectItem \
+  D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/QGraphicsItem \
+  D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/QGraphicsPixmapItem \
   D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/qgraphicsitem.h \
   D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/qtwidgets-config.h \
   D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/qtwidgetsexports.h \

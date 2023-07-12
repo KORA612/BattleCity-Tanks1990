@@ -247,7 +247,8 @@
 		"D:/_Applications/Qt/Tools/CMake_64/share/cmake-3.24/Modules/CMakeFindDependencyMacro.cmake",
 		"D:/_Applications/Qt/6.5.1/mingw_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginTargets.cmake",
 		"D:/_Applications/Qt/6.5.1/mingw_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginTargets-relwithdebinfo.cmake",
-		"D:/_Applications/Qt/6.5.1/mingw_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginAdditionalTargetInfo.cmake"
+		"D:/_Applications/Qt/6.5.1/mingw_64/lib/cmake/Qt6Widgets/Qt6QWindowsVistaStylePluginAdditionalTargetInfo.cmake",
+		"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/res.qrc"
 	],
 	"CMAKE_SOURCE_DIR" : "C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal",
 	"DEP_FILE" : "C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/BattleCity-Tanks1990-APfinal_autogen/deps",
@@ -261,15 +262,27 @@
 			null
 		],
 		[
-			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/MyRect.h",
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Game.h",
 			"MU",
-			"EWIEGA46WW/moc_MyRect.cpp",
+			"EWIEGA46WW/moc_Game.cpp",
 			null
 		],
 		[
-			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/mainwindow.h",
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Health.h",
 			"MU",
-			"EWIEGA46WW/moc_mainwindow.cpp",
+			"EWIEGA46WW/moc_Health.cpp",
+			null
+		],
+		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Player.h",
+			"MU",
+			"EWIEGA46WW/moc_Player.cpp",
+			null
+		],
+		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Score.h",
+			"MU",
+			"EWIEGA46WW/moc_Score.cpp",
 			null
 		]
 	],
@@ -348,17 +361,27 @@
 			null
 		],
 		[
-			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/MyRect.cpp",
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Game.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Health.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Player.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Score.cpp",
 			"MU",
 			null
 		],
 		[
 			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/main.cpp",
-			"MU",
-			null
-		],
-		[
-			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/mainwindow.cpp",
 			"MU",
 			null
 		]

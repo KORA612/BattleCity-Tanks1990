@@ -127,7 +127,8 @@ C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Bu
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qtransform.h
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qwindowdefs.h
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qwindowdefs_win.h
- mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/QGraphicsRectItem
+ mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/QGraphicsItem
+ mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/QGraphicsPixmapItem
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/qgraphicsitem.h
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/qtwidgets-config.h
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/qtwidgetsexports.h
@@ -347,15 +348,14 @@ C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Bu
  mdp:D:/_Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h
  mdp:D:/_Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h
  mdp:D:/_Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h
-C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/mainwindow.cpp
- uic:./ui_mainwindow.h
-C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/main.cpp
-C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/MyRect.h
-C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/MyRect.cpp
-C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/mainwindow.h
+C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Health.h
+C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Score.h
+C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Game.h
+C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Player.h
  mmc:Q_OBJECT
- mdp:C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/mainwindow.h
+ mdp:C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Player.h
  mdp:C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/BattleCity-Tanks1990-APfinal_autogen/moc_predefs.h
+ mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtCore/QObject
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtCore/q20memory.h
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtCore/q20type_traits.h
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtCore/qalgorithms.h
@@ -463,19 +463,10 @@ C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/ma
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtCore/qvarlengtharray.h
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtCore/qversiontagging.h
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtCore/qxptype_traits.h
- mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qaction.h
- mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qbitmap.h
- mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qbrush.h
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qcolor.h
- mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qcursor.h
- mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qfont.h
- mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qfontinfo.h
- mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qfontmetrics.h
- mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qicon.h
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qimage.h
- mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qkeysequence.h
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qpaintdevice.h
- mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qpalette.h
+ mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qpainterpath.h
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qpixelformat.h
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qpixmap.h
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qpolygon.h
@@ -488,14 +479,12 @@ C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/ma
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qtransform.h
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qwindowdefs.h
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui/qwindowdefs_win.h
- mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/QMainWindow
- mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/qmainwindow.h
- mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/qsizepolicy.h
- mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/qtabwidget.h
+ mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/QGraphicsItem
+ mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/QGraphicsPixmapItem
+ mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/qgraphicsitem.h
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/qtwidgets-config.h
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/qtwidgetsexports.h
  mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/qtwidgetsglobal.h
- mdp:D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets/qwidget.h
  mdp:D:/_Applications/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed/limits.h
  mdp:D:/_Applications/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed/syslimits.h
  mdp:D:/_Applications/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/algorithm
@@ -712,3 +701,8 @@ C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/ma
  mdp:D:/_Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h
  mdp:D:/_Applications/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h
 C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Bullet.cpp
+C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Score.cpp
+C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Health.cpp
+C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Game.cpp
+C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Player.cpp
+C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/main.cpp

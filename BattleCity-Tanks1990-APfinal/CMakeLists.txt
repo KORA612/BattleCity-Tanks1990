@@ -14,13 +14,18 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Widgets)
 
 set(PROJECT_SOURCES
         main.cpp
-        mainwindow.cpp
-        mainwindow.h
-        mainwindow.ui
-        MyRect.cpp
-        MyRect.h
         Bullet.h
         Bullet.cpp
+        Score.h
+        Score.cpp
+        Game.h
+        Game.cpp
+        Player.h
+        Player.cpp
+        Health.h
+        Health.cpp
+        res.qrc
+
 )
 
 if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)

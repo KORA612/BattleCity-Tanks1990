@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>lady-of-the-80x27s-128379.mp3</file>
+        <file>mixkit-shatter-shot-explosion-1693.wav</file>
+        <file>mixkit-short-laser-gun-shot-1670.wav</file>
+        <file>mixkit-game-gun-shot-1662.mp3</file>
+        <file>mixkit-laser-cannon-shot-1678.wav</file>
+        <file>kl-peach-game-over-iii-142453.mp3</file>
+    </qresource>
+    <qresource prefix="/maps">
+        <file>map_1.txt</file>
+        <file>map_2.txt</file>
+        <file>map_3.txt</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>box.jpg</file>
+        <file>bricks.png</file>
+        <file>forest.jpg</file>
+        <file>gamemenu.jpg</file>
+        <file>icon.png</file>
+        <file>menu.png</file>
+        <file>Bullet.png</file>
+        <file>b.png</file>
+        <file>bb.png</file>
+        <file>bbb.jpg</file>
+        <file>tank.png</file>
+        <file>t.png</file>
+        <file>gbg.png</file>
+    </qresource>
+</RCC>
