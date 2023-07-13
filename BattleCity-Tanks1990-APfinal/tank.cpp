@@ -66,36 +66,24 @@ void Tank::slotGameTimer1()
         }
     }
     if(GetAsyncKeyState(VK_RIGHT)){
-        angle += 10;        // Set the rotation 10 degrees to the right
-        setRotation(angle); // Rotating the object
-        target->angle += 10;        // Set the rotation 10 degrees to the left
+        angle += 10;
+        setRotation(angle);
+        target->angle += 10;
         target->setRotation(target->angle);
-        /* Checking for a collision
-                 * if a collision has occurred,
-                 * then we return the hero back to the starting point
-                 * */
+
         if(!scene()->collidingItems(this).isEmpty()){
-            angle -= 10;// Set the rotation 10 degrees to the right
-            setRotation(angle); // Rotating the object
+            angle -= 10;
+            setRotation(angle);
         }
     }
     if(GetAsyncKeyState(VK_UP)){
         setPos(mapToParent(0, 5));
-        //  target->setPos(target->mapToParent(0, 5));
-        /*Move the object 5 pixels forward
-                                         * by translating them into the coordinate system
-                                         * graphic scene
-                                         * */
         if(!scene()->collidingItems(this).isEmpty()){
             setPos(mapToParent(0, -5));
         }
     }
     if(GetAsyncKeyState(VK_DOWN)){
-        setPos(mapToParent(0, -5));      /* Move the object 5 pixels back
-                                         * by translating them into the coordinate system
-                                         * graphic scene
-                                         * */
-            // target->setPos(target->mapToParent(0, -5));
+        setPos(mapToParent(0, -5));
         if(!scene()->collidingItems(this).isEmpty()){
             setPos(mapToParent(0, 5));
         }
@@ -181,5 +169,4 @@ void Tank::hit(int damage)
     health -= damage;   // Reduce Target Health
     emit signalDamage(health,this->tank_ID);
     if(health <= 0) this->deleteLater();
-
 }

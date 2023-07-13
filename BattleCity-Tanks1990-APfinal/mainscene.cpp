@@ -1,5 +1,5 @@
 #include "mainscene.h"
-#include "Mapcreator.h""
+#include "Mapcreator.h"
 
 #include <QApplication>
 #include <QDebug>
@@ -59,8 +59,8 @@ MainScene::MainScene(QWidget *parent)
     target_tank2.push_back(tank2);
 
 
-    scene->addItem(tank1);   // Add a tank to the scene
-    tank1->setPos(-640,-250);  // Place the tank in the center of the scene
+    scene->addItem(tank1);
+    tank1->setPos(-640,-250);
     scene->addItem(tank2);
     tank2->setPos(640,250);
 
@@ -89,17 +89,11 @@ void MainScene::slotBullet(QPointF start,QPointF target)
 
 void MainScene::slothit(QGraphicsItem *item)
 {
-    /* Received a signal from Bullet
-     * We iterate over the entire list of targets and random damage on it
-     * */
-
     foreach (QGraphicsItem *targ1,target_tank1 ) {
 
         if(targ1 ==item){
-
-            // Casting an object from the list into the Tank class
             Tank *t = qgraphicsitem_cast <Tank *> (targ1);
-            t->hit(2); // We inflict damage
+            t->hit(2);
         }
     }
     foreach (QGraphicsItem *targ2,target_tank2 ) {

@@ -24,18 +24,14 @@ signals:
     void signalConnect(int,int);
 private:
 
-    static QList<QGraphicsItem *> target_tank1;//target list
-    static QList<QGraphicsItem *> target_tank2;//target list
-    QGraphicsScene      *scene;     // Declaring the scene for rendering
+    static QList<QGraphicsItem *> target_tank1;
+    static QList<QGraphicsItem *> target_tank2;
+    QGraphicsScene      *scene;
     Tank* tank1;
     QTimer          *timer;
     Tank* tank2;
     QTimer          *timer2;
 
-    /* We declare a game timer, thanks to which
-                                 * the position of the object on the scene will be changed
-                                 * When acted on by keyboard keys
-                                 * */
 
 private slots:
     void slotBullet(QPointF start,QPointF target);
