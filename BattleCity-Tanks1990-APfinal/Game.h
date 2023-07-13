@@ -2,22 +2,31 @@
 #define GAME_H
 
 #include <QWidget>
-#include <QGraphicsScene>
-#include <QGraphicsView>
-#include "Player.h"
-#include "Score.h"
-#include "Health.h"
+#include <QHBoxLayout>
+#include <QKeyEvent>
+#include <QMessageBox>
+#include <QDebug>
+#include <QObject>
+#include <QTextLayout>
+#include <QDebug>
+#include "mainscene.h"
+#include "score.h"
 
-class Game : public QGraphicsView
+class Game : public QWidget
 {
+    Q_OBJECT
 public:
-    Game(QWidget * parent=0);
+    explicit Game(QWidget *parent = nullptr);
+    //virtual ~Game1() {};
+    QTextLayout * textLayout;
+protected:
+    void keyPressEvent(QKeyEvent *e);
 
-    QGraphicsScene * scene;
-    Player * player;
-    Score * score;
-    Health * health;
+signals:
+    void openmenu();
+    void GameOver(int ID);
+private slots:
+    void SlotEndOfTheGame(int ID);
 };
-
 
 #endif // GAME_H

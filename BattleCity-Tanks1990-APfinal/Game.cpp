@@ -1,43 +1,32 @@
-#include "Game.h"
-#include <QTimer>
-#include <QGraphicsTextItem>
-#include <QFont>
-#include <QBrush>
-#include <QImage>
-//#include <QMediaPlayer>
+#include "game.h"
+#include "windows.h"
 
-Game::Game(QWidget *parent)
+Game::Game(QWidget *parent) : QWidget(parent)
 {
-    //Scene
-    scene = new QGraphicsScene();
-    scene->setSceneRect(0,0,800,600);
-    setBackgroundBrush(QBrush(QImage(":/images/gbg.png")));
+    QVBoxLayout* game_layout = new QVBoxLayout(this);
+    game_layout->setContentsMargins(0, 0, 0, 0);
+    game_layout->setSpacing(0);
 
-    setScene(scene);
-    setHorizontalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
-    setVerticalScrollBarPolicy(Qt::ScrollBarAlwaysOff);
-    setFixedSize(800,600);
+    //WIDGET WITH SCORE
+    Score* score = new Score();
+    game_layout->addWidget(score);
 
-    //Player
-    player = new Player();
-    player->setPos(width()/2 - 50 , height() -100-10);
 
-    player->setFlag(QGraphicsItem::ItemIsFocusable);
-    player->setFocus();
+    //widget with scene
+    MainScene* main_scene = new MainScene();
+    game_layout->addWidget(main_scene);
+    connect (main_scene,&MainScene::signalConnect,score,&Score::slotDamage);
+    connect (score,&Score::signalEndOfTheGame,this,&Game::SlotEndOfTheGame);
+    this->setLayout(game_layout);
+}
 
-    scene->addItem(player);
-
-    //Score
-    score = new Score();
-    scene->addItem(score);
-
-    //Health
-    health = new Health();
-    health->setPos(health->x(),health->y()+25);
-    scene->addItem(health);
-
-    //Music
-    //QMediaPlayer * music = new QMediaPlayer();
-
-    show();
+void Game::keyPressEvent(QKeyEvent *e)
+{
+    if( e->key() == Qt::Key_Escape)
+    {
+        emit openmenu();
+    }
+}
+void Game::SlotEndOfTheGame(int ID){
+    emit GameOver(ID);
 }

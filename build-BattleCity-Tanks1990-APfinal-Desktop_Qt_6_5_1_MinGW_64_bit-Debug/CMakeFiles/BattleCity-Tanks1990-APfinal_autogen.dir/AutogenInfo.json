@@ -274,6 +274,18 @@
 			null
 		],
 		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Mapcreator.h",
+			"MU",
+			"EWIEGA46WW/moc_Mapcreator.cpp",
+			null
+		],
+		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Menu.h",
+			"MU",
+			"EWIEGA46WW/moc_Menu.cpp",
+			null
+		],
+		[
 			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Player.h",
 			"MU",
 			"EWIEGA46WW/moc_Player.cpp",
@@ -283,6 +295,42 @@
 			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Score.h",
 			"MU",
 			"EWIEGA46WW/moc_Score.cpp",
+			null
+		],
+		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Target.h",
+			"MU",
+			"EWIEGA46WW/moc_Target.cpp",
+			null
+		],
+		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Wall.h",
+			"MU",
+			"EWIEGA46WW/moc_Wall.cpp",
+			null
+		],
+		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/gamemenu.h",
+			"MU",
+			"EWIEGA46WW/moc_gamemenu.cpp",
+			null
+		],
+		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/mainscene.h",
+			"MU",
+			"EWIEGA46WW/moc_mainscene.cpp",
+			null
+		],
+		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/mainwindow.h",
+			"MU",
+			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/tank.h",
+			"MU",
+			"EWIEGA46WW/moc_tank.cpp",
 			null
 		]
 	],
@@ -371,6 +419,16 @@
 			null
 		],
 		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Mapcreator.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Menu.cpp",
+			"MU",
+			null
+		],
+		[
 			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Player.cpp",
 			"MU",
 			null
@@ -381,7 +439,37 @@
 			null
 		],
 		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Target.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Wall.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/gamemenu.cpp",
+			"MU",
+			null
+		],
+		[
 			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/main.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/mainscene.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/mainwindow.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/tank.cpp",
 			"MU",
 			null
 		]

@@ -105,6 +105,70 @@ build CMakeFiles/BattleCity-Tanks1990-APfinal.dir/Health.cpp.obj: CXX_COMPILER__
   OBJECT_DIR = CMakeFiles\BattleCity-Tanks1990-APfinal.dir
   OBJECT_FILE_DIR = CMakeFiles\BattleCity-Tanks1990-APfinal.dir
 
+build CMakeFiles/BattleCity-Tanks1990-APfinal.dir/Mapcreator.cpp.obj: CXX_COMPILER__BattleCity-Tanks1990-APfinal_Debug C$:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Mapcreator.cpp || cmake_object_order_depends_target_BattleCity-Tanks1990-APfinal
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\BattleCity-Tanks1990-APfinal.dir\Mapcreator.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17
+  INCLUDES = -IC:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/BattleCity-Tanks1990-APfinal_autogen/include -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtCore -isystem D:/_Applications/Qt/6.5.1/mingw_64/include -isystem D:/_Applications/Qt/6.5.1/mingw_64/mkspecs/win32-g++ -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\BattleCity-Tanks1990-APfinal.dir
+  OBJECT_FILE_DIR = CMakeFiles\BattleCity-Tanks1990-APfinal.dir
+
+build CMakeFiles/BattleCity-Tanks1990-APfinal.dir/Wall.cpp.obj: CXX_COMPILER__BattleCity-Tanks1990-APfinal_Debug C$:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Wall.cpp || cmake_object_order_depends_target_BattleCity-Tanks1990-APfinal
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\BattleCity-Tanks1990-APfinal.dir\Wall.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17
+  INCLUDES = -IC:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/BattleCity-Tanks1990-APfinal_autogen/include -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtCore -isystem D:/_Applications/Qt/6.5.1/mingw_64/include -isystem D:/_Applications/Qt/6.5.1/mingw_64/mkspecs/win32-g++ -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\BattleCity-Tanks1990-APfinal.dir
+  OBJECT_FILE_DIR = CMakeFiles\BattleCity-Tanks1990-APfinal.dir
+
+build CMakeFiles/BattleCity-Tanks1990-APfinal.dir/Target.cpp.obj: CXX_COMPILER__BattleCity-Tanks1990-APfinal_Debug C$:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Target.cpp || cmake_object_order_depends_target_BattleCity-Tanks1990-APfinal
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\BattleCity-Tanks1990-APfinal.dir\Target.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17
+  INCLUDES = -IC:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/BattleCity-Tanks1990-APfinal_autogen/include -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtCore -isystem D:/_Applications/Qt/6.5.1/mingw_64/include -isystem D:/_Applications/Qt/6.5.1/mingw_64/mkspecs/win32-g++ -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\BattleCity-Tanks1990-APfinal.dir
+  OBJECT_FILE_DIR = CMakeFiles\BattleCity-Tanks1990-APfinal.dir
+
+build CMakeFiles/BattleCity-Tanks1990-APfinal.dir/Menu.cpp.obj: CXX_COMPILER__BattleCity-Tanks1990-APfinal_Debug C$:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/Menu.cpp || cmake_object_order_depends_target_BattleCity-Tanks1990-APfinal
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\BattleCity-Tanks1990-APfinal.dir\Menu.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17
+  INCLUDES = -IC:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/BattleCity-Tanks1990-APfinal_autogen/include -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtCore -isystem D:/_Applications/Qt/6.5.1/mingw_64/include -isystem D:/_Applications/Qt/6.5.1/mingw_64/mkspecs/win32-g++ -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\BattleCity-Tanks1990-APfinal.dir
+  OBJECT_FILE_DIR = CMakeFiles\BattleCity-Tanks1990-APfinal.dir
+
+build CMakeFiles/BattleCity-Tanks1990-APfinal.dir/gamemenu.cpp.obj: CXX_COMPILER__BattleCity-Tanks1990-APfinal_Debug C$:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/gamemenu.cpp || cmake_object_order_depends_target_BattleCity-Tanks1990-APfinal
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\BattleCity-Tanks1990-APfinal.dir\gamemenu.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17
+  INCLUDES = -IC:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/BattleCity-Tanks1990-APfinal_autogen/include -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtCore -isystem D:/_Applications/Qt/6.5.1/mingw_64/include -isystem D:/_Applications/Qt/6.5.1/mingw_64/mkspecs/win32-g++ -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\BattleCity-Tanks1990-APfinal.dir
+  OBJECT_FILE_DIR = CMakeFiles\BattleCity-Tanks1990-APfinal.dir
+
+build CMakeFiles/BattleCity-Tanks1990-APfinal.dir/tank.cpp.obj: CXX_COMPILER__BattleCity-Tanks1990-APfinal_Debug C$:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/tank.cpp || cmake_object_order_depends_target_BattleCity-Tanks1990-APfinal
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\BattleCity-Tanks1990-APfinal.dir\tank.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17
+  INCLUDES = -IC:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/BattleCity-Tanks1990-APfinal_autogen/include -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtCore -isystem D:/_Applications/Qt/6.5.1/mingw_64/include -isystem D:/_Applications/Qt/6.5.1/mingw_64/mkspecs/win32-g++ -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\BattleCity-Tanks1990-APfinal.dir
+  OBJECT_FILE_DIR = CMakeFiles\BattleCity-Tanks1990-APfinal.dir
+
+build CMakeFiles/BattleCity-Tanks1990-APfinal.dir/mainwindow.cpp.obj: CXX_COMPILER__BattleCity-Tanks1990-APfinal_Debug C$:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/mainwindow.cpp || cmake_object_order_depends_target_BattleCity-Tanks1990-APfinal
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\BattleCity-Tanks1990-APfinal.dir\mainwindow.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17
+  INCLUDES = -IC:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/BattleCity-Tanks1990-APfinal_autogen/include -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtCore -isystem D:/_Applications/Qt/6.5.1/mingw_64/include -isystem D:/_Applications/Qt/6.5.1/mingw_64/mkspecs/win32-g++ -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\BattleCity-Tanks1990-APfinal.dir
+  OBJECT_FILE_DIR = CMakeFiles\BattleCity-Tanks1990-APfinal.dir
+
+build CMakeFiles/BattleCity-Tanks1990-APfinal.dir/mainscene.cpp.obj: CXX_COMPILER__BattleCity-Tanks1990-APfinal_Debug C$:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/BattleCity-Tanks1990-APfinal/mainscene.cpp || cmake_object_order_depends_target_BattleCity-Tanks1990-APfinal
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\BattleCity-Tanks1990-APfinal.dir\mainscene.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17
+  INCLUDES = -IC:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/BattleCity-Tanks1990-APfinal_autogen/include -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtCore -isystem D:/_Applications/Qt/6.5.1/mingw_64/include -isystem D:/_Applications/Qt/6.5.1/mingw_64/mkspecs/win32-g++ -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtWidgets -isystem D:/_Applications/Qt/6.5.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\BattleCity-Tanks1990-APfinal.dir
+  OBJECT_FILE_DIR = CMakeFiles\BattleCity-Tanks1990-APfinal.dir
+
 build CMakeFiles/BattleCity-Tanks1990-APfinal.dir/BattleCity-Tanks1990-APfinal_autogen/EWIEGA46WW/qrc_res.cpp.obj: CXX_COMPILER__BattleCity-Tanks1990-APfinal_Debug C$:/Users/HP/Desktop/BattleCity-Tanks1990-APfinal/build-BattleCity-Tanks1990-APfinal-Desktop_Qt_6_5_1_MinGW_64_bit-Debug/BattleCity-Tanks1990-APfinal_autogen/EWIEGA46WW/qrc_res.cpp || cmake_object_order_depends_target_BattleCity-Tanks1990-APfinal
   DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
   DEP_FILE = CMakeFiles\BattleCity-Tanks1990-APfinal.dir\BattleCity-Tanks1990-APfinal_autogen\EWIEGA46WW\qrc_res.cpp.obj.d
@@ -121,7 +185,7 @@ build CMakeFiles/BattleCity-Tanks1990-APfinal.dir/BattleCity-Tanks1990-APfinal_a
 #############################################
 # Link the executable BattleCity-Tanks1990-APfinal.exe
 
-build BattleCity-Tanks1990-APfinal.exe: CXX_EXECUTABLE_LINKER__BattleCity-Tanks1990-APfinal_Debug CMakeFiles/BattleCity-Tanks1990-APfinal.dir/BattleCity-Tanks1990-APfinal_autogen/mocs_compilation.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/main.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/Bullet.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/Score.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/Game.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/Player.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/Health.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/BattleCity-Tanks1990-APfinal_autogen/EWIEGA46WW/qrc_res.cpp.obj | D$:/_Applications/Qt/6.5.1/mingw_64/lib/libQt6Widgets.a D$:/_Applications/Qt/6.5.1/mingw_64/lib/libQt6Gui.a D$:/_Applications/Qt/6.5.1/mingw_64/lib/libQt6Core.a D$:/_Applications/Qt/6.5.1/mingw_64/lib/libQt6EntryPoint.a || BattleCity-Tanks1990-APfinal_autogen BattleCity-Tanks1990-APfinal_autogen_timestamp_deps
+build BattleCity-Tanks1990-APfinal.exe: CXX_EXECUTABLE_LINKER__BattleCity-Tanks1990-APfinal_Debug CMakeFiles/BattleCity-Tanks1990-APfinal.dir/BattleCity-Tanks1990-APfinal_autogen/mocs_compilation.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/main.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/Bullet.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/Score.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/Game.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/Player.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/Health.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/Mapcreator.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/Wall.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/Target.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/Menu.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/gamemenu.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/tank.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/mainwindow.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/mainscene.cpp.obj CMakeFiles/BattleCity-Tanks1990-APfinal.dir/BattleCity-Tanks1990-APfinal_autogen/EWIEGA46WW/qrc_res.cpp.obj | D$:/_Applications/Qt/6.5.1/mingw_64/lib/libQt6Widgets.a D$:/_Applications/Qt/6.5.1/mingw_64/lib/libQt6Gui.a D$:/_Applications/Qt/6.5.1/mingw_64/lib/libQt6Core.a D$:/_Applications/Qt/6.5.1/mingw_64/lib/libQt6EntryPoint.a || BattleCity-Tanks1990-APfinal_autogen BattleCity-Tanks1990-APfinal_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_FLAGS = -mwindows
   LINK_LIBRARIES = D:/_Applications/Qt/6.5.1/mingw_64/lib/libQt6Widgets.a  D:/_Applications/Qt/6.5.1/mingw_64/lib/libQt6Gui.a  D:/_Applications/Qt/6.5.1/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lmingw32  D:/_Applications/Qt/6.5.1/mingw_64/lib/libQt6EntryPoint.a  -lshell32  -ld3d11  -ldxgi  -ldxguid  -ldcomp  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
@@ -233,7 +297,7 @@ build BattleCity-Tanks1990-APfinal_autogen/EWIEGA46WW/qrc_res.cpp | ${cmake_ninj
 #############################################
 # Phony custom command for CMakeFiles\BattleCity-Tanks1990-APfinal_autogen_timestamp_deps
 
-build CMakeFiles/BattleCity-Tanks1990-APfinal_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/BattleCity-Tanks1990-APfinal_autogen_timestamp_deps: phony D$:/_Applications/Qt/6.5.1/mingw_64/lib/libQt6Core.a D$:/_Applications/Qt/6.5.1/mingw_64/./bin/moc.exe D$:/_Applications/Qt/6.5.1/mingw_64/./bin/uic.exe D$:/_Applications/Qt/6.5.1/mingw_64/lib/libQt6Widgets.a
+build CMakeFiles/BattleCity-Tanks1990-APfinal_autogen_timestamp_deps | ${cmake_ninja_workdir}CMakeFiles/BattleCity-Tanks1990-APfinal_autogen_timestamp_deps: phony D$:/_Applications/Qt/6.5.1/mingw_64/lib/libQt6Core.a D$:/_Applications/Qt/6.5.1/mingw_64/./bin/uic.exe D$:/_Applications/Qt/6.5.1/mingw_64/./bin/moc.exe D$:/_Applications/Qt/6.5.1/mingw_64/lib/libQt6Widgets.a
 
 
 #############################################

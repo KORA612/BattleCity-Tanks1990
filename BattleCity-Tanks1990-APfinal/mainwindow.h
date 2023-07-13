@@ -2,10 +2,12 @@
 #define MAINWINDOW_H
 
 #include <QMainWindow>
+#include <QGraphicsScene>
+#include <QVBoxLayout>
 
-QT_BEGIN_NAMESPACE
-namespace Ui { class MainWindow; }
-QT_END_NAMESPACE
+#include "game.h"
+#include "menu.h"
+#include "gamemenu.h"
 
 class MainWindow : public QMainWindow
 {
@@ -16,6 +18,19 @@ public:
     ~MainWindow();
 
 private:
-    Ui::MainWindow *ui;
+
+    Game* game_window;
+
+private slots:
+    void Play();
+    void addtank();
+    void Exit();
+    void slotGameOver(int ID);
+
+    void openMenu();
+    void closeMenu();
+    void NewGame();
 };
+
+
 #endif // MAINWINDOW_H

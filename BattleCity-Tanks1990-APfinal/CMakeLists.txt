@@ -25,6 +25,22 @@ set(PROJECT_SOURCES
         Health.h
         Health.cpp
         res.qrc
+        Mapcreator.h
+        Mapcreator.cpp
+        Wall.h
+        Wall.cpp
+        Target.h
+        Target.cpp
+        Menu.h
+        Menu.cpp
+        gamemenu.h
+        gamemenu.cpp
+        tank.h
+        tank.cpp
+        mainwindow.h
+        mainwindow.cpp
+        mainscene.h
+        mainscene.cpp
 
 )
 
